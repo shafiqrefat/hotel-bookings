@@ -1,5 +1,5 @@
 {
-  "name": "hotel-bookings",
+  "name": "hotel-reservation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
